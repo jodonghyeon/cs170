@@ -1,0 +1,7 @@
+
+========== TestEH1 ==========
+std::exception caught in TestEH
+
+
+Players created: 7
+Players active: 0

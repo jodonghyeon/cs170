@@ -1,0 +1,31 @@
+
+========== TestAssign3 ==========
+Red team:
+----------------
+PYRO BamBam 15 3 20 10 
+SOLDIER Barney 10 2 10 
+SCOUT Betty 5 1 5 
+SOLDIER Dino 10 2 10 
+PYRO Fred 15 3 10 20 
+SCOUT Pebbles 5 1 5 
+SCOUT Wilma 5 1 5 
+Blue team:
+----------------
+SOLDIER David 20 2 10 
+PYRO Derek 15 3 10 20 
+SOLDIER Ian 25 2 10 
+PYRO Nigel 15 3 10 20 
+
+Copy via assignment:
+----------------
+PYRO BamBam 15 3 20 10 
+SOLDIER Barney 10 2 10 
+SCOUT Betty 5 1 5 
+SOLDIER Dino 10 2 10 
+PYRO Fred 15 3 10 20 
+SCOUT Pebbles 5 1 5 
+SCOUT Wilma 5 1 5 
+
+
+Players created: 18
+Players active: 0

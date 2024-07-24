@@ -1,0 +1,7 @@
+
+========== TestEH2 ==========
+SubscriptError caught in TestEH: Bad subscript is 7
+
+
+Players created: 7
+Players active: 0

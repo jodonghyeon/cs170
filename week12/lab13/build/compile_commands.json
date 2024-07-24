@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/jack9/OneDrive/바탕 화면/code_lab/lab13/build",
+  "command": "/usr/bin/g++ -g -Wall -Werror -Wextra -pedantic -std=c++17 -o CMakeFiles/fun.dir/fun.cpp.o -c \"/mnt/c/Users/jack9/OneDrive/바탕 화면/code_lab/lab13/fun.cpp\"",
+  "file": "/mnt/c/Users/jack9/OneDrive/바탕 화면/code_lab/lab13/fun.cpp"
+}
+]

@@ -1,0 +1,90 @@
+
+========== TestFight2 ==========
+Red team:
+----------------
+PYRO BamBam 15 3 20 10 
+SOLDIER Barney 10 2 10 
+SCOUT Betty 5 1 5 
+SOLDIER Dino 10 2 10 
+PYRO Fred 15 3 10 20 
+SCOUT Pebbles 5 1 5 
+SCOUT Wilma 5 1 5 
+
+Blue team:
+----------------
+SOLDIER David 20 2 10 
+PYRO Derek 15 3 10 20 
+SOLDIER Ian 25 2 10 
+PYRO Nigel 15 3 10 20 
+
+Barney (power2=10) is attacking Nigel (health=15)
+Barney shot Nigel
+Dino (power1=2) is attacking David (health=20)
+Dino slapped David
+David (power1=2) is attacking Betty (health=5)
+David slapped Betty
+Barney (power1=2) is attacking Ian (health=25)
+Barney slapped Ian
+David (power1=2) is attacking Fred (health=15)
+David slapped Fred
+Betty (power1=1) is attacking David (health=18)
+Betty pushed David
+David (power1=2) is attacking Fred (health=13)
+David slapped Fred
+Derek (power2=10) is attacking Barney (health=10)
+Derek harpooned Barney
+Barney was killed by Derek
+Ian (power1=2) is attacking BamBam (health=15)
+Ian slapped BamBam
+Ian (power2=10) is attacking Wilma (health=5)
+Ian shot Wilma
+Wilma was killed by Ian
+Nigel (power2=10) is attacking Pebbles (health=5)
+Nigel harpooned Pebbles
+Pebbles was killed by Nigel
+Nigel (power2=10) is attacking Betty (health=3)
+Nigel harpooned Betty
+Betty was killed by Nigel
+BamBam (power1=3) is attacking David (health=17)
+BamBam punched David
+David (power1=2) is attacking BamBam (health=13)
+David slapped BamBam
+Dino (power1=2) is attacking Nigel (health=5)
+Dino slapped Nigel
+Fred (power2=10) is attacking Nigel (health=3)
+Fred harpooned Nigel
+Nigel was killed by Fred
+Dino (power1=2) is attacking Ian (health=23)
+Dino slapped Ian
+David (power1=2) is attacking Fred (health=11)
+David slapped Fred
+BamBam (power1=3) is attacking David (health=14)
+BamBam punched David
+David (power1=2) is attacking BamBam (health=11)
+David slapped BamBam
+Fred (power1=3) is attacking David (health=11)
+Fred punched David
+Derek (power1=3) is attacking Fred (health=9)
+Derek punched Fred
+Ian (power2=10) is attacking BamBam (health=9)
+Ian shot BamBam
+BamBam was killed by Ian
+Ian (power2=10) is attacking Fred (health=6)
+Ian shot Fred
+Fred was killed by Ian
+David (power2=10) is attacking Dino (health=10)
+David shot Dino
+Dino was killed by David
+
+*********** Outcome ************
+
+After 25 rounds, players still standing:
+*** Red ***
+*** Blue ***
+David with 8 health points.
+Derek with 15 health points.
+Ian with 21 health points.
+
+
+Players created: 11
+Players active: 0

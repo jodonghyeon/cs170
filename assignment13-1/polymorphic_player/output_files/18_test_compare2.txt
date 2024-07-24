@@ -1,0 +1,9 @@
+
+========== TestCompare2 ==========
+I'm a Scout named Moe
+***** bad_cast caught in TestCompare2: std::bad_cast
+***** Failed TestCompare2
+
+
+Players created: 1
+Players active: 1

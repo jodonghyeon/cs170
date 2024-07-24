@@ -1,0 +1,13 @@
+
+========== TestList3 ==========
+Curly 200 3 13 33 
+Larry 150 2 22 
+Moe 100 1 11 
+
+PYRO Curly 200 3 13 33 
+SOLDIER Larry 150 2 22 
+SCOUT Moe 100 1 11 
+
+
+Players created: 3
+Players active: 0

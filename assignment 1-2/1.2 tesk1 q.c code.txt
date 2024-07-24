@@ -1,0 +1,80 @@
+#include <stdio.h> //printf, scanf
+
+
+void print_line(int index, int rest, int denomination)
+{
+printf("| %-2d | %9d.%02d | %5d |\n",index,denomination/100,denomination%100,rest/denomination);
+}
+void break_down(int cents)
+{
+    printf("\n+----+--------------+-------+\n");
+    printf("| #  | Denomination | Count |\n");
+    printf("+----+--------------+-------+\n");
+    int d;
+for(int i=1; i<=11;i++)
+{
+    switch (i){
+        case 1:
+            d=10000;
+            break;
+        case 2:
+            d=5000;
+            break;
+        case 3:
+            d=1000;
+            break;
+        case 4:
+            d=500;
+            break;
+        case 5:
+            d=200;
+            break;
+        case 6:
+            d=100;
+            break;
+        case 7:
+            d=50;
+            break;
+        case 8:
+            d=20;
+            break;
+        case 9:
+            d=10;
+            break;
+        case 10:
+            d=5;
+            break;
+        default:
+            d=1;
+
+    }
+    print_line(i,cents,d);
+    cents%=d;
+}
+
+printf("+----+--------------+-------+\n");
+}
+int main(void)
+{
+int dollars;
+int cents;
+int s = scanf("%d.%d",&dollars,&cents);
+printf("Please enter total value: ");
+if(s==2)
+{
+        if(dollars<0)
+    {
+        printf("The dollars part specified must be non-negative.\n");
+    }
+    else if(cents<0||cents>99)
+    {
+        printf("The cents part specified must be between 0...99 (inclusive).\n");
+    }else
+        break_down(dollars*100+cents);
+}
+else 
+{
+    printf("You did not type in the correct format in terms of dollars and cents.\n");
+}
+return 0;
+}

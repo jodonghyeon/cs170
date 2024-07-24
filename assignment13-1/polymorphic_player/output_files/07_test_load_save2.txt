@@ -1,0 +1,13 @@
+
+========== TestLoadSave2 ==========
+PYRO BamBam 150 3 10 20 
+SOLDIER Barney 100 2 10 
+SCOUT Betty 50 1 5 
+SOLDIER Dino 100 2 10 
+PYRO Fred 150 3 10 20 
+SCOUT Pebbles 50 1 5 
+SCOUT Wilma 50 1 5 
+
+
+Players created: 7
+Players active: 0

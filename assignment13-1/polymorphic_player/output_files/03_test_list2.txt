@@ -1,0 +1,10 @@
+
+========== TestList2 ==========
+I'm a Pyro named Curly
+I'm a Soldier named Larry
+I'm a Scout named Moe
+I'm a Scout named Moe
+
+
+Players created: 3
+Players active: 0

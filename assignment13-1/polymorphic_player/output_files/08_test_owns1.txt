@@ -1,0 +1,9 @@
+
+========== TestOwns1 ==========
+PYRO Curly 150 3 15 20 
+SOLDIER Larry 100 2 10 
+SCOUT Moe 50 1 5 
+
+
+Players created: 3
+Players active: 0

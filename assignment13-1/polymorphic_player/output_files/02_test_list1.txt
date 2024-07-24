@@ -1,0 +1,14 @@
+
+========== TestList1 ==========
+Index is 0
+Index is 1
+Index is 1
+Index is 3
+I'm a Pyro named Curly
+I'm a Soldier named Larry
+I'm a Scout named Moe
+I'm a Soldier named Shemp
+
+
+Players created: 4
+Players active: 0

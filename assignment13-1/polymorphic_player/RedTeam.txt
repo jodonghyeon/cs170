@@ -1,0 +1,7 @@
+SOLDIER Barney 10 2 10
+PYRO Fred 15 3 10 20
+SCOUT Wilma 5 1 5
+SCOUT Betty 5 1 5
+SOLDIER Dino 10 2 10
+SCOUT Pebbles 5 1 5
+PYRO BamBam 15 3 20 10

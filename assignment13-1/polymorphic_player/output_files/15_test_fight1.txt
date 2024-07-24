@@ -1,0 +1,33 @@
+
+========== TestFight1 ==========
+
+Before:
+Moe 50 1 5 
+Larry 100 2 10 
+Curly 150 3 10 20 
+Moe pushed Curly
+Larry slapped Curly
+Curly punched Larry
+Curly burned Moe
+Larry shot Moe
+Curly burned Larry
+Moe stabbed Larry
+Moe stabbed Curly
+Larry shot Curly
+Larry shot Larry
+Larry shot Larry
+Larry shot Larry
+Larry shot Larry
+Larry shot Larry
+Larry shot Larry
+Larry shot Larry
+Larry shot Larry
+
+After:
+Moe 20 1 5 
+Larry -8 2 10 
+Curly 132 3 10 20 
+
+
+Players created: 3
+Players active: 0

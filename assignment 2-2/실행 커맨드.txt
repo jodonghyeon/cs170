@@ -1,0 +1,8 @@
+gcc -std=c11 -pedantic-errors -Wall -Werror -Wextra -Wconversion -Wstrict-prototypes -c -o q.o q.c
+gcc -std=c11 -pedantic-errors -Wall -Werror -Wextra -Wconversion -Wstrict-prototypes -DENCRYPT -c -o qdriver.o qdriver.c
+gcc q.o qdriver.o -o encrypter
+./encrypter 1> actual-output.txt 2>> actual-output.txt
+gcc -Wall -Werror -Wextra -Wconversion -Wstrict-prototypes -pedantic-errors -std=c11 -c -o qdriver.o qdriver.c
+gcc q.o qdriver.o -o decrypter
+./decrypter 1>> actual-output.txt 2>> actual-output.txt
+cat out-plain.txt >> actual-output.txt
